@@ -12,7 +12,7 @@ export default class Contacts extends Component {
           const { contacts } = value;
           return (
             <div>
-              <h3 className='mb-3'>Contact List</h3>
+              <h3 className='mb-3'>Contact Listttt</h3>
               {contacts.map(contact => (
                 <Contact
                   key={contact.id}
